@@ -1,0 +1,1 @@
+# stardew_ja_pants_editor
