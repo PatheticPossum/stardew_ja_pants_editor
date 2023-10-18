@@ -196,7 +196,7 @@ Module['FS_createPath']("/", "assets", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/assets/pants5.png", "start": 0, "end": 22960}, {"filename": "/assets/font.ttf", "start": 22960, "end": 191220}, {"filename": "/assets/pants1.png", "start": 191220, "end": 212050}, {"filename": "/assets/pants4.png", "start": 212050, "end": 234269}, {"filename": "/assets/pants6.png", "start": 234269, "end": 255372}, {"filename": "/assets/pants3.png", "start": 255372, "end": 277972}, {"filename": "/assets/pants2.png", "start": 277972, "end": 294477}], "remote_package_size": 294477, "package_uuid": "a7315664-f65a-4c02-b6dc-69512f0c7d29"});
+    loadPackage({"files": [{"filename": "/assets/pants5.png", "start": 0, "end": 22960}, {"filename": "/assets/font.ttf", "start": 22960, "end": 191220}, {"filename": "/assets/pants1.png", "start": 191220, "end": 212050}, {"filename": "/assets/pants4.png", "start": 212050, "end": 234269}, {"filename": "/assets/pants6.png", "start": 234269, "end": 255372}, {"filename": "/assets/pants3.png", "start": 255372, "end": 277972}, {"filename": "/assets/pants2.png", "start": 277972, "end": 294477}], "remote_package_size": 294477, "package_uuid": "dc3536fe-386c-49c0-9490-005b27ef2f62"});
 
   })();
 
